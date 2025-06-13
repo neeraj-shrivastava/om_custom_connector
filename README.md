@@ -1,0 +1,2 @@
+# om_custom_connector
+OpenMetaData_CustomConnectors
